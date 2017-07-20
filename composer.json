@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-snapshot",
+	"description" : "CakePHP Plugin: Takes a snapshot of the database and saves it to a sqlite database.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "snapshot"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"nih-fo/plugin-usage": "1.*"
+	}
+}
