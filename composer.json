@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Takes a snapshot of the database and saves it to a sqlite database.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "snapshot"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
