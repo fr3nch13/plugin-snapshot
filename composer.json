@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-snapshot",
+	"name" : "fr3nch13/plugin-snapshot",
 	"description" : "CakePHP Plugin: Takes a snapshot of the database and saves it to a sqlite database.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "snapshot"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/plugin-usage": "1.*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/plugin-usage": "1.*"
 	}
 }
